@@ -35,6 +35,4 @@ static const struct tsl2591_persist_map tsl2591_persist_table[] = {
 
 Após uma semana de trabalho, enviei o patch para a lista interna da matéria (CLI), que passou com sucesso sem nenhuma revisão negativa.
 
-Depois disso, enviei o patch de verdade para os mantenedores do subsistema IIO e para a lista `linux-iio@vger.kernel.org`. O envio foi um pouco tardio, então ainda não recebi nenhum retorno dos mantenedores — mas o patch está lá no mundo, e agora é esperar.
-
-Foi uma experiência bem interessante para entender como funciona o fluxo de contribuição para o kernel Linux na prática.
+Depois disso, enviei o patch de verdade para os mantenedores do subsistema IIO. O envio foi um pouco tardio, então ainda não recebi nenhum retorno dos mantenedores.
