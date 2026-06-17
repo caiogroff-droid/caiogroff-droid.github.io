@@ -7,8 +7,6 @@ tags: [linux, kernel, iio, patch, open-source]
 
 ## O começo — um mal entendido
 
-Comecei a trabalhar no patch do Linux no dia 29 de abril. Meu plano inicial era contribuir nos drivers IIO em dupla com outro aluno, mas por um desentendimento da minha parte eu não sabia que estava sem dupla e que deveria estar fazendo um patch diferente.
-
 Depois de conversar com o professor, ficou claro o que precisava ser feito, e na semana seguinte comecei do zero no patch atual.
 
 ## O patch em si
@@ -33,6 +31,6 @@ static const struct tsl2591_persist_map tsl2591_persist_table[] = {
 
 ## Enviando o patch
 
-Após uma semana de trabalho, enviei o patch para a lista interna da matéria (CLI), que passou com sucesso sem nenhuma revisão negativa.
+Após uma semana, enviei o patch para a lista interna da matéria (CLI), que passou com sucesso sem nenhuma revisão negativa.
 
 Depois disso, enviei o patch de verdade para os mantenedores do subsistema IIO. O envio foi um pouco tardio, então ainda não recebi nenhum retorno dos mantenedores.
