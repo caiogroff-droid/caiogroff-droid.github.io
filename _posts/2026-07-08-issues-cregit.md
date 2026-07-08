@@ -1,5 +1,5 @@
 ---
-title: "Contribuindo fora do kernel: issues no repositório cregit-codev"
+title: "Issues cregit"
 date: 2026-07-08 00:00:00 -0300
 categories: [MAC0470, Open Source]
 tags: [open-source, git, github, documentation, cregit]
