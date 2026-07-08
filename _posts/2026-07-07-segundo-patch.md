@@ -1,5 +1,5 @@
 ---
-title: "Segundo patch: FIELD_GET no adxl372"
+title: "Segundo patch"
 date: 2026-07-07 00:00:00 -0300
 categories: [Linux Kernel, Open Source]
 tags: [linux, kernel, iio, drivers, bitfield, patch, open-source, review]
